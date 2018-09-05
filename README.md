@@ -13,3 +13,7 @@ POLYMORPHISM Tugas 1 <br>
 <br>
 POLYMORPHISM karnivora <br>
 ![alt text](https://github.com/elangone/JobSheet4/blob/master/JobSheet4/POLIMORPHISMTkarnivora.JPG)
+<br>
+<br>
+Kalkulator Sederhana <br>
+![alt text](https://github.com/elangone/JobSheet4/blob/master/JobSheet4/Kalkulator.JPG)
